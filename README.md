@@ -19,7 +19,6 @@ An intelligent web-based platform that leverages Machine Learning and Deep Learn
 - [API Documentation](#-api-documentation)
 - [ML Models](#-ml-models)
 - [Dataset Information](#-dataset-information)
-- [Screenshots](#-screenshots)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -352,22 +351,7 @@ curl -X POST http://localhost:5000/api/recommend-fertilizer \
 - **Target:** 22 crop types
 - **Format:** CSV
 
-## 📸 Screenshots
 
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Disease Detection
-![Disease Detection](screenshots/disease-detection.png)
-
-### Crop Recommendation
-![Crop Recommendation](screenshots/crop-recommendation.png)
-
-### Fertilizer Recommendation
-![Fertilizer Recommendation](screenshots/fertilizer-recommendation.png)
 
 ## 🔮 Future Enhancements
 
